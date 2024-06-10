@@ -1,0 +1,25 @@
+.header-index {
+    width: 100%;
+    height: 80px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    border-bottom: solid 5px blue;
+    background-color: white;
+}
+
+.logo-overview {
+    width: 80px;
+    height: 80px;
+    margin-left: 40px;
+}
+
+.ludebra-title {
+    font-weight: bold;
+    position: absolute;
+    margin-left: 120px;
+}
+
