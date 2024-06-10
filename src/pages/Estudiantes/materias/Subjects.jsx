@@ -74,7 +74,7 @@ export function Subjects() {
 
   if (localStorage.getItem('site') !== '3') {
     navigate('/login')
-    alert('Oops! You Cannot Access This Page')
+    alert('Oops! You Cannot Access This Page.')
     return null
   }
 
